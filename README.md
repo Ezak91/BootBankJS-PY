@@ -12,7 +12,7 @@ cd BootBankJS-PY
 mv config.json.example config.json
 mv accounts.json.example accounts.json
 ```
-3. edit config files see
+3. edit config files see [Edit config files](#edit-config-files)
 ```shell
 nano config.json
 nano accounts.json

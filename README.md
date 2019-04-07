@@ -18,6 +18,8 @@ nano config.json
 nano accounts.json
 ```
 
+4. import sql/bootbankjs.sql file to mysql to create database (only one time for BootBankJS-PY or BootBankJS)
+
 ## Edit config files
 **config.json**
 ```json

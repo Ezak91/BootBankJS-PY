@@ -1,0 +1,8 @@
+[
+  {
+    "bankcode": "59350110",
+    "banklogin": "bankuser",
+    "bankpin": "bankpassword",
+    "bankurl": "https://banking-sl2.s-fints-pt-sl.de/fints30"
+  }
+]

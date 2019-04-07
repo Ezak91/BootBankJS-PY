@@ -1,7 +1,7 @@
 # BootBankJS-PY
 Backend script for BootBankJS frontend
 
-## Install
+## Installing
 1. clone repository
 ```shell
 git clone https://github.com/Ezak91/BootBankJS-PY.git

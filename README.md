@@ -1,6 +1,13 @@
 # BootBankJS-PY
 Backend script for BootBankJS frontend
 
+
+## Prepare
+```
+apt-get -y install python3-mysql.connector
+pip3 install fints
+```
+
 ## Installing
 1. clone repository
 ```shell
@@ -68,6 +75,12 @@ You can add multiple accounts separate by , like
   }  
 ]
 ```
+
+## Run
+```
+python3 bootbankjs.py 
+```
+
 
 ## Built With
 * [PyFinTS](https://github.com/raphaelm/python-fints) - A pure-python implementation of FinTS
